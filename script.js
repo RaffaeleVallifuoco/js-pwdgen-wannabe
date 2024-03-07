@@ -2,7 +2,7 @@ console.log('prova');
 
 const username = prompt('Inserisci il tuo nome'); //string ;
 const last_name = prompt('Inserisci il tuo cognome'); //string;
-const randomInt=Math.floor((Math.random()*100)+1);
+const randomInt=Math.floor((Math.random()*100)+1); //string
 
 
 console.log('nome:' + username);
